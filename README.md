@@ -782,8 +782,8 @@ copies or substantial portions of the Software.
 
 ## 👨‍💻 Contributors
 
-**Project Creator:** [Your Name]  
-**Institution:** [Your College]  
+**Project Creator:** Sahil  
+**Institution:** PDPM Indian Institute of Information Technology, Design and Manufacturing Jabalpur
 **Course:** Digital Logic Design / VLSI Design / Computer Architecture  
 **Year:** 2025
 
